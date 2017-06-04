@@ -1,5 +1,5 @@
 /**
- * Created by karantankshali on 04/06/17.
+ * Created by Kishan Khakhar on 04/06/17.
  */
 import React, { Component, PropTypes } from 'react';
 import Google from './Google';
